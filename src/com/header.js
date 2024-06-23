@@ -19,7 +19,7 @@ const header = () => {
 
 <div className="secondhead">
 <div className="logo">
-    <a><img src="https://demo.softhopper.studio/house-rent/wp-content/uploads/sites/7/2017/04/logo-1.png"/></a>
+    <a><img src="https://htmlguru.net/house-rent/assets/images/logo.png"/></a>
 </div>
 <div className="mjk" >
 < i className="cfy fa fa-bars" onClick={Okk}></i>

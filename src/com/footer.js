@@ -4,11 +4,11 @@ const footer = () => {
 <div>
 <div className="qk">
     <div className="qr">
-        <img src="https://demo.softhopper.studio/house-rent/wp-content/uploads/sites/7/2017/04/gallery-one-227x256.png"
+        <img src="https://htmlguru.net/house-rent/assets/images/gallery/gallery-one.png"
             className="nill"/>
-        <img src="https://demo.softhopper.studio/house-rent/wp-content/uploads/sites/7/2017/04/gallery-two-227x256.png"
+        <img src="https://htmlguru.net/house-rent/assets/images/gallery/gallery-two.png"
             className="nill"/>
-        <img src="https://demo.softhopper.studio/house-rent/wp-content/uploads/sites/7/2017/04/gallery-three-227x256.png"
+        <img src="https://htmlguru.net/house-rent/assets/images/gallery/gallery-three.png"
             className="nill"/>
     </div>
     <div>

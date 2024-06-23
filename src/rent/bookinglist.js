@@ -33,7 +33,6 @@ const booking = () => {
 
 
 
-
 <div className="boxhd">
 
 
@@ -45,7 +44,7 @@ const booking = () => {
 
 <div className="box">
     <div className="imk">
-    <a href='booking'>  <img className='imgt' src="https://demo.softhopper.studio/house-rent/wp-content/uploads/sites/7/2017/04/demo-image-rental-05-360x270.jpg"
+    <a href='booking'>  <img className='imgt' src="https://htmlguru.net/house-rent/assets/images/apartment/apartment-one.png"
             alt=""/></a>
     </div>
     <div className="kl">
@@ -67,7 +66,7 @@ const booking = () => {
 
 <div className="box">
     <div className="imk">
-    <a href='booking'>  <img className='imgt' src="https://demo.softhopper.studio/house-rent/wp-content/uploads/sites/7/2017/04/demo-image-rental-05-360x270.jpg"
+    <a href='booking'>  <img className='imgt' src="https://htmlguru.net/house-rent/assets/images/apartment/apartment-two.png"
             alt=""/></a>
     </div>
     <div className="kl">
@@ -88,7 +87,7 @@ const booking = () => {
 
 <div className="box">
     <div className="imk">
-      <a href='booking'>  <img className='imgt' src="https://demo.softhopper.studio/house-rent/wp-content/uploads/sites/7/2017/04/demo-image-rental-05-360x270.jpg"
+      <a href='booking'>  <img className='imgt' src="https://htmlguru.net/house-rent/assets/images/apartment/apartment-three.png"
             alt=""/></a>
     </div>
     <div className="kl">
@@ -108,7 +107,7 @@ const booking = () => {
 
 <div className="box">
     <div className="imk">
-    <a href='booking'>  <img className='imgt' src="https://demo.softhopper.studio/house-rent/wp-content/uploads/sites/7/2017/04/demo-image-rental-05-360x270.jpg"
+    <a href='booking'>  <img className='imgt' src="https://htmlguru.net/house-rent/assets/images/apartment/apartment-four.png"
             alt=""/></a>
     </div>
     <div className="kl">
@@ -128,7 +127,7 @@ const booking = () => {
 
 <div className="box">
     <div className="imk">
-    <a href='booking'>  <img className='imgt' src="https://demo.softhopper.studio/house-rent/wp-content/uploads/sites/7/2017/04/demo-image-rental-05-360x270.jpg"
+    <a href='booking'>  <img className='imgt' src="https://htmlguru.net/house-rent/assets/images/apartment/apartment-five.png"
             alt=""/></a>
     </div>
     <div className="kl">
@@ -149,7 +148,7 @@ const booking = () => {
 
 <div className="box">
     <div className="imk">
-    <a href='booking'>  <img className='imgt' src="https://demo.softhopper.studio/house-rent/wp-content/uploads/sites/7/2017/04/demo-image-rental-05-360x270.jpg"
+    <a href='booking'>  <img className='imgt' src="https://htmlguru.net/house-rent/assets/images/apartment/apartment-six.png"
             alt=""/></a>
     </div>
     <div className="kl">
@@ -166,6 +165,7 @@ const booking = () => {
 
 
 </div>
+
 
 </div>
 <button>Load More</button>
